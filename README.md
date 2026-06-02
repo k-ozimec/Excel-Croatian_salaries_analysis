@@ -26,7 +26,7 @@ An interactive Excel Data Dashboard that analyses Gross and Net salaries in Croa
   - Designed visuals to support dynamic exploaration of trends and added slicers.
 
 # How to use the Dashboard
-**Enable Content**: upon opening the file for the first time, click **"Enable Content"** on the top yellow security banner to allow the Power Pivot connection to load.
+**Enable Content**: upon opening the .xlsx file for the first time, click **"Enable Content"** on the top yellow security banner to allow the Power Pivot connection to load.
 
 **Filter the Timline**: use the **Year** and **Month** **Slicers** to narrow down data.
 
