@@ -1,7 +1,8 @@
 # Excel-Croatian_salaries_analysis
-An interactive Excel Data Dashboard that analyses Gross and Net salaries in Croatia over the span of 5 and 8 years (for critical KPI indicators).  
+An interactive Excel Data Dashboard that analyses Gross and Net salaries (expressed in euros) in Croatia over the span of 5 and 8 years (for critical KPI indicators).  
 
-<img width="1803" height="779" alt="Snimka zaslona 2026-06-02 224928" src="https://github.com/user-attachments/assets/088fc307-93ac-4118-85f9-1659c5cd3e35" /> 
+<img width="1837" height="784" alt="Snimka zaslona 2026-06-03 101839" src="https://github.com/user-attachments/assets/52e508f1-a099-4c79-b3a5-29374c119dc8" />
+
 
 # Key Features
 **Interactive Map Visualization**: visualizes salary distribution across Croatian counties using Excel’s native map chart.
